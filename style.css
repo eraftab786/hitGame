@@ -123,6 +123,12 @@ body{
 
 @media screen and (max-width: 600px){
 
+    
+    .gameContainer{
+    width: 100%;
+    height: 88vh;
+    
+}
     .bheem{
         width: 6vw;
         height: 6vh;
