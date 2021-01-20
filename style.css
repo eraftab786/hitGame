@@ -130,9 +130,9 @@ body{
     
 }
     .bheem{
-        width: 1rem;
-        height: 1rem;
-       
+            width: 0.8rem;
+    height: 1rem;
+    bottom: 20vh;
         
         
     }
@@ -140,6 +140,7 @@ body{
     .car{
         width: 1rem;
         height: 1rem;
+        bottom: 20vh;
       
         
     }
